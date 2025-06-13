@@ -61,4 +61,4 @@ for host in nm.all_hosts():
 ```
 
 ## Disclaimer 
-This project is for educational purposes only. Using keyloggers without explicit permission is illegal and unethical. Always ensure you have proper consent before running this or similar software on any device.
+This project is for educational purposes only. Using scanners without explicit permission is illegal and unethical. Always ensure you have proper consent before running this or similar software on any device.
