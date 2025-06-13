@@ -12,7 +12,9 @@ FOR EDUCATIONAL PURPOSES ONLY.
 
 ---
 ## What is a Port Scanner and what is it used for?
+
 A port scanner is a tool that checks which doors (ports) are open on a computer or server. It is used for security testing, network troubleshooting and learning/practice. It's important to secure systems, understand what is running and to find issues before attackers do.
+
 ---
 
 ## Installation
