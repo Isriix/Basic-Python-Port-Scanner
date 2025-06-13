@@ -58,3 +58,7 @@ for host in nm.all_hosts():
         # Loop through each port and print its number and state
         for port, state in port_info.items():
             print("Port: %s\tState: %s" % (port, state))
+```
+
+## Disclaimer 
+This project is for educational purposes only. Using keyloggers without explicit permission is illegal and unethical. Always ensure you have proper consent before running this or similar software on any device.
