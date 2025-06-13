@@ -18,7 +18,7 @@ A port scanner is a tool that checks which doors (ports) are open on a computer 
 ---
 
 ## Installation
-First you need to download Nmap and Python 3 if you haven't already. You can find instructions to those online.  
+First you need to download Nmap, Visual Studio Code and Python 3 if you haven't already. You can find instructions for how to do this online, but make sure that Nmap is avaliable in PATH.   
 
 ## Code with Explanations
 
